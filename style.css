@@ -1,0 +1,206 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Montserrat', sans-serif;
+}
+.header-container{
+    width: 100%;
+    height: 100vh;
+    background-image: url(images/donation13.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
+.title{
+    font-weight: 700;
+    font-size: 65px;
+    line-height: 79px;
+    text-align: center;
+    color: #FFFFFF;
+}
+.titles{
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 79px;
+    text-align: center;
+    color: #000000;
+}
+.para{
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+    /* or 156% */
+    
+    text-align: center;
+    
+    color: #FFFFFF;
+}
+.paras{
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+    /* or 156% */
+    
+    text-align: center;
+    
+    color: #414040;
+    margin: 10px 10px;
+}
+.btn-primary{
+
+background: #FF5959;
+border-radius: 5px;
+padding: 16px 12px;
+border: none;
+font-size: 14px;
+color: #FFFFFF;
+text-transform: uppercase;
+margin-top: 10px;
+
+}
+.donate-title{
+    display: flex;
+    justify-content: center;
+    
+
+
+}
+
+.donate-section{
+    width: 100%;
+    height: 100vh;
+    margin-top: 130px;
+    background-color: #FFFFFF;
+}
+.taka{
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+    justify-content: space-around;
+    padding: 80px 50px;
+    
+    
+}
+.amount{
+    background: #FAFAFA;
+    padding: 43px 30px;
+    font-weight: 700;
+    font-size: 30px;
+    color: #ffbd59;
+    border: none;
+    border-radius: 10px;
+}
+.amount:hover{
+    background: #FFEEEE;
+}
+.hr{
+    text-align: center;
+    padding: 50px 100px;
+
+}
+hr{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.donate-titles{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 90px;
+    align-items: center;
+
+}
+.icon{
+padding: 90px 50px;
+background: rgba(79, 157, 166, 0.1);
+border-radius: 5px;
+box-shadow: 4px 4px 8px #ebebeb;
+
+}
+.icon-1{
+    
+padding: 90px 50px;
+background: rgba(255, 89, 89, 0.1);
+border-radius: 5px;
+box-shadow: 4px 4px 8px #ebebeb;
+}
+.icon-2{
+    
+    padding: 90px 50px;
+    background: #FF5959;
+    border-radius: 5px;
+    background: #FFF4D6;
+    
+
+}
+.donate-title-icon{
+    display: flex;
+    justify-content: space-around;
+    padding: 50px ;
+    align-items: center;
+    margin: 10px;
+    gap: 10px;
+}
+.picture-section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 60px;
+
+}
+.tit{
+font-weight: 700;
+font-size: 45px;
+}
+.para-des{
+font-weight: 400;
+font-size: 14px;
+line-height: 28px;
+margin: 10px 10px;
+}
+.text{
+    padding: 30px;
+}
+.contact{
+    padding: 80px 90px;
+    background: #FFF4D6;
+    border-radius: 10px;
+    border: none;
+}
+.sub{
+    background: #FF5959;
+border-radius: 5px;
+padding: 16px 12px;
+border: none;
+font-size: 14px;
+color: #FFFFFF;
+text-transform: uppercase;
+margin-top: 10px;
+
+}
+.subs{
+    background: #ffffff;
+border-radius: 5px;
+padding: 16px 12px;
+border: none;
+font-size: 14px;
+color: #FFFFFF;
+text-transform: uppercase;
+margin-top: 10px;
+}
+.contact-title{
+    text-align: center;
+    padding: 50PX 200px;
+   
+}
+.donate{
+    text-align: center;
+}
+.footer{
+    text-align: center;
+    background-color: #000000;
+    padding: 20px;
+}
